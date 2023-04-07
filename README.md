@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adeoti Nurudeen</h1>
 <h3 align="center">A Frontend developer with passion to enhancing UX</h3>
-
+<img src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg?w=740&t=st=1680842792~exp=1680843392~hmac=338d330ac422c4dad5e101d6bf63b5e16af1e20f2b7c0537fcf64956e673b9c7" align="right" alt="Frontend Developer" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adeoti&label=Profile%20views&color=0e75b6&style=flat" alt="adeoti" /> </p>
 
 - 👨‍💻 Most of my projects are available at [http://adeoti.netlify.app](http://adeoti.netlify.app)
